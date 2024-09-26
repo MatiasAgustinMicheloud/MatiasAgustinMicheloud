@@ -6,4 +6,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## Languages
 I speak native spanish and my english level is advanced.
-hola mundo
+
+## Hobbies
+- Dancing: ...
